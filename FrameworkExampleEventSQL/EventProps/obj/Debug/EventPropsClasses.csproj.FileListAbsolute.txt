@@ -1,0 +1,9 @@
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\bin\Debug\EventPropsClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\bin\Debug\EventPropsClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\bin\Debug\ToolsCSharp.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\bin\Debug\ToolsCSharp.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.csprojAssemblyReference.cache
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.csproj.CoreCompileInputs.cache
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.csproj.CopyComplete
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.pdb

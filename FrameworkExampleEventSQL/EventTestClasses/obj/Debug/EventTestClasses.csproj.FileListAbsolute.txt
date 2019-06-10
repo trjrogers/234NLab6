@@ -1,0 +1,17 @@
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventTestClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventTestClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventDBClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventPropsClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\nunit.framework.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\ToolsCSharp.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventDBClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\EventPropsClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\ToolsCSharp.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\bin\Debug\nunit.framework.xml
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.csprojAssemblyReference.cache
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.csproj.CoreCompileInputs.cache
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.csproj.CopyComplete
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventTestClasses\obj\Debug\EventTestClasses.pdb

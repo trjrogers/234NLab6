@@ -1,0 +1,13 @@
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.pdb
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csprojAssemblyReference.cache
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csproj.CoreCompileInputs.cache
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csproj.CopyComplete
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.dll
+C:\rogerst\S19\CS 234N\Lab6\FrameworkLibrary\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.pdb
