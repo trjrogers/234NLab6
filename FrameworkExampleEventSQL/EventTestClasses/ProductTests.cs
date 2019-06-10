@@ -92,7 +92,7 @@ namespace EventTestClasses
             Product p = new Product(dataSource);
             p.ProductCode = "zzzz      ";
             p.Description = "Test";
-            p.UnitPrice = 100.00m;
+            p.UnitPrice = 100m;
             p.OnHandQuantity = 100;
 
             p.Save();
